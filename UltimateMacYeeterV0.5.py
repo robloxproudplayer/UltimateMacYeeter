@@ -3,7 +3,7 @@
 #(yes)Automatic see if the mac changed
 #(x)option for Mac randomizer
 #(x)option for Mac Randomizer each customized time
-#(In progress)let the user see his avaible devices only if he says yes to the question
+#(yes)let the user see his avaible devices only if he says yes to the question
 #(x)let the user choose if he is in windows or in linux
 #(x)automate windows or linux detection
 #(x)make a visual gui for it
