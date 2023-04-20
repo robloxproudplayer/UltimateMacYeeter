@@ -1,0 +1,4 @@
+#these are the required modules required for the program to work
+pip install subprocess
+pip install time
+pip install re
